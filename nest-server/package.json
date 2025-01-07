@@ -38,6 +38,7 @@
     "docker-compose": "^1.1.0",
     "express-session": "^1.18.1",
     "ioredis": "^5.4.2",
+    "prisma": "^6.1.0",
     "prizma": "^0.0.22",
     "reflect-metadata": "^0.2.0",
     "rxjs": "^7.8.1",
