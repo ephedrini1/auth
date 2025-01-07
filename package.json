@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cache-manager-redis-store": "^3.0.1",
+    "connect-redis": "^8.0.1",
+    "express-session": "^1.18.1",
+    "ioredis": "^5.4.2",
+    "redis": "^4.7.0"
+  }
+}
