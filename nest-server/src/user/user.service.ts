@@ -54,5 +54,6 @@ export class UserService {
                     accounts: true
                 }
             })
+            return user
         }
 }
